@@ -1,0 +1,15 @@
+.cabecalho__navegacao__lista {
+    display: flex;
+    font-size: 1.75rem;
+    font-weight: 700;
+    justify-content: space-between;
+}
+
+.cabecalho__navegacao__lista-item {
+    border-right: 2px solid #f6f6f6;
+    padding: 0 2.5rem;
+}
+
+.cabecalho__navegacao__lista-item:last-child {
+    border-right: none;
+}

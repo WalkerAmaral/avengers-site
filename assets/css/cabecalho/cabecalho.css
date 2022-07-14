@@ -1,0 +1,10 @@
+.cabecalho {
+    align-items: center;
+    background: #000000;
+    color: #F6F6F6;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 72px;
+    justify-content: space-between;
+    padding: 0 20px;
+}
